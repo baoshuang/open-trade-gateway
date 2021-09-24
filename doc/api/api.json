@@ -1,6 +1,0 @@
-{
-    "user":[
-        ["/trade/:broker_id/", "WS", "WebAddr", ["open-trade-gateway"], "JSONBODY"]
-    ]
-  }
-  
